@@ -1,0 +1,23 @@
+{
+  "name": "peertube-theme-haxx-green",
+  "version": "1.0.0",
+  "description": "haxx green PeerTube Theme",
+  "engine": {
+    "peertube": ">=1.3.0"
+  },
+  "keywords": [
+    "peertube",
+    "theme",
+    "green",
+    "dark"
+  ],
+  "homepage": "https://github.com/gordon0001/peertube-theme-haxx-green",
+  "author": "gordon0001",
+  "bugs": "https://github.com/gordon0001/peertube-theme-haxx-green/issues",
+  "staticDirs": {
+    "images": "public/images"
+  },
+  "css": [
+    "assets/style.css"
+  ]
+}
